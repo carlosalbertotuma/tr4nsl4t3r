@@ -2,7 +2,7 @@
 
 Tradutor via linha de comando feito em python.
 
-git clone 
+git clone https://github.com/carlosalbertotuma/tr4nsl4t3r.git
 
 pip install -r requirements.txt
 
